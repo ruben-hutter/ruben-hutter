@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Rust.**
 
-- 👨‍💻 All of my projects are available at [rubenhutter.ch](rubenhutter.ch)
+- 👨‍💻 All of my projects are available at [rubenhutter.ch](https://rubenhutter.ch)
 
 - 📫 How to reach me **hutter.ruben@rubenhutter.ch**
 
