@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [rubenhutter.ch](https://rubenhutter.ch)
 
-- 📫 How to reach me **hutter.ruben@rubenhutter.ch**
+- 📫 How to reach me **ruben.hutter@rubenhutter.ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
